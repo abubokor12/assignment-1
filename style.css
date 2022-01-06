@@ -1,0 +1,146 @@
+*{margin:0; padding:0;}
+body{margin:0 auto;}
+#first-section{
+	display:flex;
+	padding:80px 60px;
+}
+
+.half-width{
+	width:50%;
+	margin-left:120px;
+}
+.half-width img{
+	width:60%;
+}
+.first-text{
+	padding:90px 0;
+}
+h1{
+	font-size:60px;
+}
+h1 span{
+	color:green;
+}
+p{
+	line-height:150%;
+	font-size:20px;
+}
+.text-area{
+	border-left:5px solid blue;
+	padding-left:7px;
+}
+.half-width p{
+	margin-top:20px;
+	margin-bottom:30px;
+}
+.all-btn{
+	text-decoration:none;
+	font-size:17px;
+	background:red;
+	color:white;
+	padding:10px 20px;
+	border-radius:6px;
+	display:inline-block;
+}
+#mission{
+	padding:40px 80px;
+}
+
+#mission h1{
+	text-align:center;
+	font-size:60px;
+	margin-bottom:40px;
+	
+}
+#mission h1 span{
+	color:green;
+}
+.all-contain{
+	display:flex;
+	justify-content:space-between;
+}
+.all-contain .sing-contain:first-child{
+	margin-left:90px;
+}
+.all-contain .sing-contain:last-child{
+	margin-right:none;
+}
+.all-contain .sing-contain{
+	background:#fff3f3;
+	flex-basis:28%;
+	padding:20px 12px;
+	margin-bottom:5%;
+	border-radius:10px;
+	box-sizing:border-box;
+	margin-right:40px;
+}
+.all-contain .sing-contain h2{
+	margin-bottom:7px;
+}
+.all-contain .sing-contain img{
+	width:50%;
+}
+.all-contain .contain-2{
+	background:#F1F9FE;
+}
+.all-contain .contain-3{
+	background:#B7D1FA;
+}
+#develop{
+	padding:50px 100px;
+}
+.develop-wrapper{
+	display:flex;
+}
+.half-width2{
+	width:50%
+}
+.half-width2 img{
+	width:70%;
+	padding-left:70px;
+}
+.half-width2 h2{
+	font-size:55px;
+}
+.half-width2 p{
+	margin-top:30px;
+	margin-bottom:30px;
+	font-size:20px;
+	font-weight:500;
+}
+.text-box{
+	margin-left:-50px;
+	margin-top:100px;
+}
+#develop2{
+	padding:80px 100px;
+}
+.text-box2{
+	margin-left:50px;
+}
+#develop h1{
+	text-align:center;
+	padding:60px 0;
+}
+.text-box4{
+	margin-top:300px;
+}
+.text-box4 span{
+	color:green;
+}
+#footer{
+	background:#0B0D17;
+}
+.footer-box{
+	padding:50px 0;
+	text-align:center;
+}
+.footer-box h1{
+	color:white;
+}
+.footer-box h1 span{
+	color:red;
+}
+.footer-box p{
+	color:#fff;
+}
